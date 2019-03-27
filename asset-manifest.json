@@ -1,5 +1,5 @@
 {
-  "main.css": "/reactprofile/static/css/main.f7b15805.chunk.css",
+  "main.css": "/reactprofile/static/css/main.ba5fb707.chunk.css",
   "main.js": "/reactprofile/static/js/main.15b36dfb.chunk.js",
   "main.js.map": "/reactprofile/static/js/main.15b36dfb.chunk.js.map",
   "runtime~main.js": "/reactprofile/static/js/runtime~main.7fe6c1c7.js",
@@ -7,8 +7,8 @@
   "static/js/2.b934461c.chunk.js": "/reactprofile/static/js/2.b934461c.chunk.js",
   "static/js/2.b934461c.chunk.js.map": "/reactprofile/static/js/2.b934461c.chunk.js.map",
   "index.html": "/reactprofile/index.html",
-  "precache-manifest.5f1330e09e4da3db902c7ea443af9602.js": "/reactprofile/precache-manifest.5f1330e09e4da3db902c7ea443af9602.js",
+  "precache-manifest.766e7eb734ad2042a2beb743d72ce341.js": "/reactprofile/precache-manifest.766e7eb734ad2042a2beb743d72ce341.js",
   "service-worker.js": "/reactprofile/service-worker.js",
-  "static/css/main.f7b15805.chunk.css.map": "/reactprofile/static/css/main.f7b15805.chunk.css.map",
+  "static/css/main.ba5fb707.chunk.css.map": "/reactprofile/static/css/main.ba5fb707.chunk.css.map",
   "static/media/logo.svg": "/reactprofile/static/media/logo.5d5d9eef.svg"
 }

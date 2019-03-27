@@ -1,0 +1,14 @@
+.App-header{
+    min-height: 50% !important;
+    height: 400px;
+    background-image: url('https://cdn.pixabay.com/photo/2017/01/15/09/53/texture-1981129__340.jpg');
+    color: white;
+    justify-content: center;
+    padding-top: 200px;
+}
+h1.title{
+    font-size: 50px;
+}
+hr{
+    width: 40%;
+}

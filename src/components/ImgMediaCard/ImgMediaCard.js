@@ -29,7 +29,7 @@ function ImgMediaCard(props) {
           alt={props.title}
           className={classes.media}
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+          image={props.imgStatic}
           title={props.title}
         />
         <CardContent>
